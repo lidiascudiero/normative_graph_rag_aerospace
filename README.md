@@ -1,14 +1,14 @@
 # ECSS Compliance RAG Engine: Hybrid Graph-Vector Architecture
 *Transitioning from Flat Text Search to Topologically-Aware AI for Aerospace Standards*
 
-## Professional Disclaimer (NDA)
+## Professional disclaimer (NDA)
 *To comply with Non-Disclosure Agreements (NDAs) and copyright restrictions regarding the official European Cooperation for Space Standardization (ECSS) corpus, the source code in this repository runs on a **Mock Dataset**.*
 
 *The proprietary industrial datasets and the full compiled databases are strictly confidential and are not included in this repository. However, the architectural logic, the knowledge graph extraction pipeline, and the metrics discussed in this documentation reflect the real-world deployment of the system tested on the complete normative corpus.*
 
 ---
 
-## The Cognitive Angle: From Flat Text to Normative Networks
+## The Cognitive angle: from flat Text to normative networks
 
 > **Author's Note:** My background in Cognitive Psychology and Neuroscience influenced the design of the retrieval architecture by emphasizing relational rather than purely lexical representations of knowledge. This allowed me to treat complex regulatory frameworks not as isolated paragraphs, but as interconnected normative networks. Just as neural pathways define cognitive functions through their connections, an aerospace standard defines compliance through its structural cross-references. By implementing a Normative Document Graph alongside a Vector Database, I apply a rigorous structural mindset to information retrieval, treating every ECSS requirement as a node in a broader "normative behavior" profile.
 
